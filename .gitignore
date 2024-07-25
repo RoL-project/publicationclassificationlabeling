@@ -5,3 +5,6 @@ test/
 .settings/
 .classpath
 .project
+.Rproj.user
+.Rhistory
+.RData
